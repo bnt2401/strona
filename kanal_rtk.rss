@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>RTK</title>
+    <link>https://bnt2401.github.io/strona/</link>
+    <description>Testowy kanał RSS.</description>
+    <language>pl</language>
+    <managingEditor>orzeu@protonmail.ch</managingEditor>
+    <webMaster>orzeu@protonmail.ch</webMaster>
+    <item>
+      <title>Drugi wpis z grafiką.</title>
+      <pubDate>Sun, 22 Jun 2025 16:54:25 +0200</pubDate>
+      <link>https://bnt2401.github.io/strona/news2.html</link>
+      <author>orzeu@protonmail.ch</author>
+      <description><![CDATA[OTO NOWY <strong>NEWS</strong> numer 2.<br/><br/><img style="HEIGHT: 116px; WIDTH: 153px" src="https://www.dropbox.com/scl/fi/4os6nel03krvqx7d8lny2/BNT_20250402_050902.jpg?rlkey=vly0xodval07yk8778o7baeeb&amp;st=qvypfca4&amp;dl=0" width=29 height=30>
+<p>&nbsp;</p>
+<table cols=9 border=1>
+<tbody>
+<tr>
+<td>Racibórz</td>
+<td>Telefon2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td></tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td></tr></tbody></table>]]></description>
+    </item>
+    <item>
+      <title>Pierwszy testowy news.</title>
+      <pubDate>Sun, 22 Jun 2025 16:52:01 +0200</pubDate>
+      <link>https://bnt2401.github.io/strona/news1.html</link>
+      <author>bnt</author>
+      <description><![CDATA[--------------------------------------------
+oto treść pierwszego newsa.
+
+coś się stało się ciekaweog 🦀.
+
+----------------------------------------------
+koniec artykułu.
+]]></description>
+    </item>
+    <item>
+      <title>&lt;new&gt;</title>
+      <pubDate>Sun, 22 Jun 2025 10:16:15 +0200</pubDate>
+      <description><![CDATA[<p align="right">jeden dwa trzy <strong>fsfsd sdf</strong>&nbsp; <em>dsfsdf s dfs</em><U> dssd <a href="http://www.onet.pl">http://www.onet.pl</a><br/></p></U>
+<table cols=2 border=0>
+<tbody>
+<tr>
+<td>1</td>
+<td>2</td></tr>
+<tr>
+<td>1</td>
+<td>2</td></tr></tbody></table>
+<table cols=2 border=1>
+<tbody>
+<tr>
+<td>1tert</td>
+<td>2tretre</td></tr>
+<tr>
+<td>1erte</td>
+<td>2erter</td></tr></tbody></table>🦀♟️🦉]]></description>
+    </item>
+  </channel>
+</rss>
