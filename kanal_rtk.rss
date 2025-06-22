@@ -2,23 +2,25 @@
 <rss version="2.0">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
-    <title>RTK</title>
+    <title>Marek J.R.</title>
     <link>https://bnt2401.github.io/strona/</link>
     <description>Testowy kanał RSS.</description>
     <language>pl</language>
     <managingEditor>orzeu@protonmail.ch</managingEditor>
     <webMaster>orzeu@protonmail.ch</webMaster>
+    <image>
+      <title>Marek J.R.</title>
+      <link>https://bnt2401.github.io/strona/</link>
+      <url>https://bnt2401.github.io/strona/logo_press.png</url>
+      <width>16</width>
+      <height>16</height>
+    </image>
     <item>
-      <title>Czwarty artykuł.</title>
+      <title>Czwarty artykuł 🦀🧂.</title>
       <pubDate>Sun, 22 Jun 2025 18:35:48 +0200</pubDate>
       <link>https://bnt2401.github.io/strona/news4.html</link>
       <description><![CDATA[próba sprayu... 
 <p><img border=0 hspace=0 alt="" src="C:\moje\_prasa\16325002.jpg" align=baseline></p>]]></description>
-    </item>
-    <item>
-      <title>&lt;new&gt;</title>
-      <pubDate>Sun, 22 Jun 2025 17:54:53 +0200</pubDate>
-      <description><![CDATA[]]></description>
     </item>
     <item>
       <title>Wpis kolejny... TRZY!</title>
@@ -27,6 +29,11 @@
       <author>bnt</author>
       <description><![CDATA[Trzy. <br/>po enterze <br/>po enterze. 
 <p>po enterze i shifcie. <br/>🦀</p>🧂<br/><img src="\gfx\Curse.png">]]></description>
+    </item>
+    <item>
+      <title>&lt;new&gt;</title>
+      <pubDate>Sun, 22 Jun 2025 17:54:53 +0200</pubDate>
+      <description><![CDATA[]]></description>
     </item>
     <item>
       <title>Drugi wpis z grafiką.</title>
