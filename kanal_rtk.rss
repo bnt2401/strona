@@ -9,6 +9,13 @@
     <managingEditor>orzeu@protonmail.ch</managingEditor>
     <webMaster>orzeu@protonmail.ch</webMaster>
     <item>
+      <title>Czwarty artykuł.</title>
+      <pubDate>Sun, 22 Jun 2025 18:35:48 +0200</pubDate>
+      <link>https://bnt2401.github.io/strona/news4.html</link>
+      <description><![CDATA[próba sprayu... 
+<p><img border=0 hspace=0 alt="" src="C:\moje\_prasa\16325002.jpg" align=baseline></p>]]></description>
+    </item>
+    <item>
       <title>&lt;new&gt;</title>
       <pubDate>Sun, 22 Jun 2025 17:54:53 +0200</pubDate>
       <description><![CDATA[]]></description>
@@ -52,18 +59,11 @@
 <td>9</td></tr></tbody></table>]]></description>
     </item>
     <item>
-      <title>Pierwszy testowy news.</title>
+      <title>Pierwszy testowy news. [przerobiony]</title>
       <pubDate>Sun, 22 Jun 2025 16:52:01 +0200</pubDate>
       <link>https://bnt2401.github.io/strona/news1.html</link>
       <author>bnt</author>
-      <description><![CDATA[--------------------------------------------
-oto treść pierwszego newsa.
-
-coś się stało się ciekaweog 🦀.
-
-----------------------------------------------
-koniec artykułu.
-]]></description>
+      <description><![CDATA[-------------------------------------------- oto <U>treść</U> pierwszego newsa. coś się stało się <em>ciekaweog</em> 🦀. ---------------------------------------------- <strong>koniec</strong> artykułu. ]]></description>
     </item>
     <item>
       <title>&lt;new&gt;</title>
